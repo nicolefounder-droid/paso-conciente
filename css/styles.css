@@ -182,7 +182,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--pine-800);outline-o
       radial-gradient(ellipse 46% 60% at 22% 55%,rgba(158,188,187,.24) 0%,rgba(158,188,187,0) 72%),
       linear-gradient(90deg,rgba(255,255,255,.2) 0%,rgba(255,255,255,.15) 32%,rgba(255,255,255,.1) 47%,rgba(255,255,255,0) 62%)}
   .hero-grain{display:none}
-  .hero-copy{min-height:880px;padding-top:96px;padding-bottom:56px;justify-content:center;align-items:flex-start;text-align:left;max-width:calc(700px + var(--pad)*2)}
+  .hero-copy{min-height:880px;padding-top:96px;padding-bottom:56px;justify-content:center;align-items:flex-start;text-align:left}
   .hero h1{margin-top:30px;font-size:clamp(88px,8.61vw,124px);line-height:.94;letter-spacing:-.03em}
   .hero-sub{margin-top:26px;max-width:710px;font-size:28px;color:rgba(30,57,54,.8)}
   .hero-actions{margin-top:40px;max-width:none;width:auto;flex-direction:row;align-items:center;gap:30px}
