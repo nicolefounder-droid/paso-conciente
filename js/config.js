@@ -5,8 +5,8 @@
 window.SITE_CONFIG = {
   bookingUrl: "",
   links: {
-    substack: "",
-    linkedin: "",
+    substack: "https://marilianaramirez.substack.com/",
+    linkedin: "https://www.linkedin.com/in/mariliana-ramirez-oliver-71713b395/",
     privacidad: "",
     terminos: ""
   }
